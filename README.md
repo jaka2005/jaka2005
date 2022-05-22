@@ -1,5 +1,5 @@
 Hi 👋, I’m @jaka2005
-I provide the services of a programmer of different formats and speak 2 programming languages Python 3 and Kotlin.
+I provide the services of a programmer of different formats and know 2 programming languages Python 3 and Kotlin.
 I mainly write bots for telegram. Below is the price list👇🏻👇🏻👇🏻all prices may be lower depending on the complexity of the work.
 - ***Creating a bot - from 13$***
 - ***Adding functionality to an existing bot - from 5$***
